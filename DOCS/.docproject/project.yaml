@@ -1,0 +1,13 @@
+title: Eve Realm Admin
+type: technical
+objective: Technical developer documentation for the admin panel plugin. Covers tenant management, user management, system settings, Go backend, React frontend, and plugin-specific deployment.
+author: beduardo
+status: drafting
+language: en
+created: "2026-06-18"
+vectorDB:
+    path: .docproject/vectors.db
+    chunkSize: 500
+    chunkOverlap: 50
+    embeddingModel: text-embedding-3-small
+    synthesisModel: gpt-5.4-mini
